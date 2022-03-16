@@ -14,8 +14,6 @@ Prazer, pode me chamar de Juu, cursando o 3º período de Sistemas de Informaç�
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudoido&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
-##
-
 <div>
 <h2>Redes Sociais</h2> 
   <a href="https://www.twitch.tv/juudoido" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

@@ -26,6 +26,7 @@ Prazer, pode me chamar de Juu, cursando o 3º período de Sistemas de Informaç�
 
 <div>
 <h2>🔋Experiência com:</h2>
+<a href="https://github.com/Juudoido">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">

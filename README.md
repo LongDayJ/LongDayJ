@@ -10,8 +10,8 @@ Prazer, pode me chamar de Juu, cursando o 3º período de Sistemas de Informaç�
 
 <div align="center">
   <a href="https://github.com/Juudoido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juudoido&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juudoido&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juudoido&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juudoido&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 <div>

@@ -30,3 +30,5 @@ Prazer, pode me chamar de Juu, cursando o 5º período de Sistemas de Informaç�
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dc3ie6uevmckaekvhhmb3enkmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dc3ie6uevmckaekvhhmb3enkmi&redirect=true)

@@ -24,7 +24,7 @@ Prazer, pode me chamar de Juu, cursando o 5º período de Sistemas de Informaç�
 
 <div>
 <h2>🔋Experiência com:</h2>
-<a href="https://github.com/Juudoido">
+<a href="https://github.com/LongDayJ">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">

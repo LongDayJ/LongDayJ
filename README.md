@@ -1,7 +1,7 @@
 # Opa Bão? 👋
 ### Seja bem-vindo só não repara a bagunça
 
-Prazer, pode me chamar de Juu, cursando o 6º período de Sistemas de Informações.
+Prazer, pode me chamar de Juu, cursando o 8º período de Sistemas de Informações.
 
 - 🔭 Atualmente aprendendo Java
 - 🤔 -insira o texto aqui-

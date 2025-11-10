@@ -38,10 +38,3 @@ Prazer, pode me chamar de Juu, cursando o 8º período de Sistemas de Informaç�
 
   </a>
 </div>
-
-<div>
-  <h3>Linguagens:</h3>
-
-</div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jblk7hm27woei4tbsutyjafbvm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jblk7hm27woei4tbsutyjafbvm&redirect=true)
